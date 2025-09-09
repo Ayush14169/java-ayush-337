@@ -8,12 +8,9 @@ public class car {
     car(){
         wheels=4;
         price=100000;
-        
-        
-    
+          
     }
      
-
      public static void main(String[] args) {
         car myCar = new car();
         myCar.fuel = 10.0f; 
